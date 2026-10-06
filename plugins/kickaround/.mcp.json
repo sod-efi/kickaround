@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "kickaround": { "type": "http", "url": "https://kickaround.app/mcp" }
+  }
+}

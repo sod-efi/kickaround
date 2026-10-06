@@ -1,0 +1,17 @@
+{
+  "name": "kickaround",
+  "owner": {
+    "name": "Kickaround",
+    "url": "https://kickaround.app"
+  },
+  "metadata": {
+    "description": "Kickaround for Claude Code and Codex: the connector and the skill in one install."
+  },
+  "plugins": [
+    {
+      "name": "kickaround",
+      "source": "./plugins/kickaround",
+      "description": "Ask several AIs at once and get one verdict: the best move, why, and what's still open."
+    }
+  ]
+}
