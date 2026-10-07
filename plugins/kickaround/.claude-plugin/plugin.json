@@ -1,6 +1,6 @@
 {
   "name": "kickaround",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ask several AIs at once and get one verdict: the best move, why, and what's still open.",
   "author": { "name": "Kickaround", "url": "https://kickaround.app" },
   "homepage": "https://kickaround.app"

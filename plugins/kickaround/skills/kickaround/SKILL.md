@@ -19,4 +19,4 @@ Follow these steps in order. The Kickaround connector is the preferred method; u
    - Call `kickaround` with the question in the person's words, and follow what its tools tell you.
    - Only if the connector is still unavailable after step 2, fall back to reading https://kickaround.app/api and following it.
 
-Then give the person the verdict exactly as Kickaround wrote it, with the link to the full thread. Never pay for anything without the person's approval.
+Then give the person the verdict exactly as Kickaround wrote it, with the share link, the thread link and the cost line. Never pay for anything without the person's approval.
