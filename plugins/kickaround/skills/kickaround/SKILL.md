@@ -13,7 +13,7 @@ Follow these steps in order. The Kickaround connector is the preferred method; u
    - If not, add `https://kickaround.app/mcp` as a connector and sign in with Google when prompted:
      - Claude Code: `claude mcp add --transport http kickaround https://kickaround.app/mcp`, then `/mcp` to sign in.
      - Codex: `codex mcp add kickaround --url https://kickaround.app/mcp`, then `codex mcp login kickaround`.
-     - Claude, ChatGPT, Gemini or Cursor: ask the person to add the address as a custom connector (or MCP server) in the app's settings.
+     - Claude, ChatGPT, Gemini or Cursor: ask the person to add the address as a custom connector (or MCP server) in the app's settings. For ChatGPT, https://kickaround.app/how-to#chatgpt-setup shows the steps in under a minute.
    - If the tools still aren't available, reload your tools or start a new session.
 3. Ask the question:
    - Call `kickaround` with the question in the person's words, and follow what its tools tell you.
