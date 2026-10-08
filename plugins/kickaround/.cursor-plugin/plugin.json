@@ -1,0 +1,12 @@
+{
+  "name": "kickaround",
+  "version": "1.0.3",
+  "description": "Ask several AIs at once and get one verdict: the best move, why, and what's still open.",
+  "author": { "name": "Kickaround" },
+  "homepage": "https://kickaround.app",
+  "repository": "https://github.com/sod-efi/kickaround",
+  "keywords": ["advice", "second opinion", "decisions", "verdict"],
+  "logo": "assets/logo.svg",
+  "skills": "skills/",
+  "mcpServers": { "kickaround": { "url": "https://kickaround.app/mcp" } }
+}

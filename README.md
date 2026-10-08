@@ -20,6 +20,6 @@ codex plugin add kickaround@kickaround
 
 Then sign in with Google when asked, and say "kickaround whether…" to use it.
 
-**Claude, ChatGPT, Gemini or Cursor:** add `https://kickaround.app/mcp` as a custom connector in the app's settings.
+**Claude, ChatGPT, Gemini, Grok or Cursor:** add `https://kickaround.app/mcp` as a custom connector in the app's settings. In Grok: grok.com/connectors → New Connector → Custom. In Grok Bot: Settings → Plugins.
 
 Short videos showing how to set it up: https://kickaround.app/how-to
